@@ -16,8 +16,8 @@
 # Or, alternatively, just substitute the paths to the kerl install paths as
 # that should work too.
 
-R15B01=${R15B01:-$HOME/erlang-R15B01}
-R16B02=${R16B02:-$HOME/erlang-R16B02}
+R15B01=${R15B01:-/opt/erlang/r15b01}
+R16B02=${R16B02:-/opt/erlang/r16b02}
 
 checkbuild()
 {
